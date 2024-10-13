@@ -9,112 +9,24 @@
 	"scss": "scss/index.scss",
 	"items": [
 		{
-			"name": "Customize",
-			"url": "/customize",
+			"name": "Pricing",
+			"url": "/pricing",
 			"items": [
 				{
 					"name": "Sass",
-					"url": "/customize#sass"
+					"url": "/pricing#sass"
 				},
 				{
 					"name": "CSS Variables",
-					"url": "/customize#css-variables"
+					"url": "/pricing#css-variables"
 				},
 				{
 					"name": "Template Variables",
-					"url": "/customize#template-variables"
+					"url": "/pricing#template-variables"
 				},
 				{
 					"name": "Optimize",
-					"url": "/customize#optimize"
-				}
-			]
-		},
-		{
-			"name": "Layout",
-			"url": "/layout",
-			"items": [
-				{
-					"name": "Breakpoints",
-					"url": "/layout#breakpoints"
-				},
-				{
-					"name": "Containers",
-					"url": "/layout#containers"
-				},
-				{
-					"name": "Grid",
-					"url": "/layout#grid"
-				},
-				{
-					"name": "Columns",
-					"url": "/layout#columns"
-				}
-			]
-		},
-		{
-			"name": "Content",
-			"url": "/content",
-			"items": [
-				{
-					"name": "Typography",
-					"url": "/content#typography"
-				},
-				{
-					"name": "Images",
-					"url": "/content#images"
-				},
-				{
-					"name": "Tables",
-					"url": "/content#tables"
-				}
-			]
-		},
-		{
-			"name": "Components",
-			"url": "/components",
-			"items": [
-				{
-					"name": "Alerts",
-					"url": "/components#alerts",
-					"id": "alerts"
-				},
-				{
-					"name": "Accardion",
-					"url": "/components#accardion",
-					"id": "accardion"
-				},
-				{
-					"name": "Buttons",
-					"url": "/components#buttons"
-				},
-				{
-					"name": "Breadcrumb",
-					"url": "/components#breadcrumb"
-				},
-				{
-					"name": "Collapse",
-					"url": "/components#collapse"
-				},
-				{
-					"name": "Dropdowns",
-					"url": "/components#dropdowns"
-				},
-				{
-					"name": "Modal",
-					"url": "/components#modal"
-				},
-				{
-					"name": "Navbar",
-					"url": "/components#navbar"
-				},
-				{
-					"name": "Pagination",
-					"url": "/components#pagination"
-				},
-				{
-					"name": "Popovers",
-					"url": "/components#popovers"
+					"url": "/pricing#optimize"
 				}
 			]
 		},
